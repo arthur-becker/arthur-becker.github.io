@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Arthur
-middle_name: 
+middle_name:
 last_name: Becker
 email: arthur.becker.private@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Arthur Becker, a Bachelor student in Computer Science at RWTH Aachen University.
-footer_text: 
+footer_text:
 keywords: natural-language-processing, large-language-models # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
